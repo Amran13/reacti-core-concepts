@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+.product-style{
+  background-color: aquamarine;
+  color: royalblue;
+  padding: 20px;
+  border: 3px solid royalblue;
+  border-radius: 10px;
+  width: 100%;
+  margin-bottom: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+
+
